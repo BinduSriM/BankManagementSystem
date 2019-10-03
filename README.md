@@ -1,1 +1,1 @@
-Bank Management System in JAVA
+Bank Management System in JAVA (NetBeans)
